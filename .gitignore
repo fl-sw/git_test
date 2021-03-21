@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 doc
 =======
 doc/
 *.md
 >>>>>>> 1af3c54... rm read
+=======
+doc/setumei.txt
+*.txt
+>>>>>>> bda4c7e... add *.md to version control
